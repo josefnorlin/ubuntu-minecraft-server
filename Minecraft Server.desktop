@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=/opt/minecraft/server_setup.sh
+Terminal=true
+Type=Application
+Icon=/opt/minecraft/icon.png
+Categories=Application;
+Name=Minecraft Server
